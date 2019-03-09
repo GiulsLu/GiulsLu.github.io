@@ -26,8 +26,8 @@ You can find my full CV <a href="CV.pdf"> here </a>
 *   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction </a>, _arXiv preprint arXiv:1903.00667._
 
 ### News
-* NeurIPS 2018, Montreal (<a href="http://www.crm.sns.it/event/436/"> poster </a>
-* <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a>, Pisa, Italy
+* NeurIPS 2018, Montreal (<a href="posterNeurips.pdf"> poster </a>
+* <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a> 2018, Pisa, Italy
 * MLSS 2018, Buenos Aires
 
 Text can **be bold**, _italic_, or ~~strikethrough~~.
