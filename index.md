@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## About Me
+
+I am a second-year PhD student in Machine Learning, at Computer Science department at UCL, in London. I work under the supervision of M. Pontil  and C. Ciliberto.
+
 Text can **be bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
