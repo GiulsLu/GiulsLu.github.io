@@ -4,8 +4,20 @@ layout: default
 
 ## About Me
 
-I am a second-year PhD student in Machine Learning, at Computer Science department at UCL, in London. I work under the supervision of M. Pontil  and C. Ciliberto.
+I am a second-year PhD student in Machine Learning, in Computer Science department at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I work under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">M. Pontil</a>  and <a href="https://cciliber.github.io">C. Ciliberto</a>
 
+## Research Interests
+
+My research is focused on the interplay of optimal transport and machine learning. 
+
+## Education
+
+*   PhD student at UCL
+*   MSc. Mathematics, University of Pavia 
+*   Exchange Program (Mar. 2015- Aug. 2015) at  <a href="https://www.hu-berlin.de/en/"> Humboldt University</a>, Berlin 
+*   Bsc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
+
+You can find my full CV here
 Text can **be bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
