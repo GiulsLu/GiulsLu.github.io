@@ -14,7 +14,7 @@ My research is focused on the interplay of optimal transport and machine learnin
 
 *   PhD student at UCL
 *   MSc. Mathematics, University of Pavia, 2014-2016
-      * MSc thesis: _Contraction and regularizing effects for Markov semigroups in Hellinger and Hellinger-Kantorovich spaces_
+      * MSc dissertation: _Contraction and regularizing effects for Markov semigroups in Hellinger and Hellinger-Kantorovich spaces_
       * Advisor: <a href="https://www-dimat.unipv.it/savare/"> Giuseppe Savare' </a>
 *   Exchange Program (Mar. 2015- Aug. 2015) at  <a href="https://www.hu-berlin.de/en/"> Humboldt University</a>, Berlin 
 *   BSc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
