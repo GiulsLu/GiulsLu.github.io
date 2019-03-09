@@ -17,7 +17,12 @@ My research is focused on the interplay of optimal transport and machine learnin
 *   Exchange Program (Mar. 2015- Aug. 2015) at  <a href="https://www.hu-berlin.de/en/"> Humboldt University</a>, Berlin 
 *   Bsc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
 
-You can find my full CV here
+You can find my full CV <a href="CV.pdf"> here </a>
+
+## Publications
+*   PhD student at UCL
+*    
+
 Text can **be bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
