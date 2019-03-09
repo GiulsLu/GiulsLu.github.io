@@ -13,15 +13,17 @@ My research is focused on the interplay of optimal transport and machine learnin
 ## Education
 
 *   PhD student at UCL
-*   MSc. Mathematics, University of Pavia 
+*   MSc. Mathematics, University of Pavia, 2014-2016
+      * MSc dissertation: _Contraction and regularizing effects for Markov semigroups in Hellinger and Hellinger-Kantorovich spaces_
+      * Advisor: <a href="https://www-dimat.unipv.it/savare/"> Giuseppe Savare' </a>
 *   Exchange Program (Mar. 2015- Aug. 2015) at  <a href="https://www.hu-berlin.de/en/"> Humboldt University</a>, Berlin 
-*   Bsc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
+*   BSc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
 
 You can find my full CV <a href="CV.pdf"> here </a>
 
 ## Publications
-*   PhD student at UCL
-*    
+*   GL, A. Rudi, M. Pontil, C. Ciliberto,  <a href="https://papers.nips.cc/paper/7827-differential-properties-of-sinkhorn-approximation-for-learning-with-wasserstein-distance.pdf"> Differential Properties of Sinkhorn Approximations for Learning with Wasserstein Loss </a>, _NeurIPS 2018_.
+*   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction </a>, _arXiv preprint arXiv:1903.00667._
 
 Text can **be bold**, _italic_, or ~~strikethrough~~.
 
