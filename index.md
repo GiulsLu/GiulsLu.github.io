@@ -29,15 +29,3 @@ You can find my full CV <a href="CV.pdf"> here </a>
 * NeurIPS 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
 * <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a> 2018, Pisa, Italy
 * MLSS 2018, Buenos Aires
-
-
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
