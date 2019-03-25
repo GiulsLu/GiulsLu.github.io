@@ -8,7 +8,7 @@ I am a second-year PhD student in Machine Learning at <a href="https://www.ucl.a
 
 ## Research Interests
 
-My research is focused on the interplay of optimal transport and machine learning. 
+My main research interest focuses on the interplay of optimal transport and machine learning. I enjoy optimal transport theory and I find its applications in applied sciences very interesting. On a minor side, I also work a bit on structured prediction and surrogate frameworks.
 
 ## Education
 
