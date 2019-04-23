@@ -27,7 +27,7 @@ You can find my full CV <a href="CV.pdf"> here </a>.
 ## Publications
 * GL, G. Savare', <a href=https://arxiv.org/pdf/1904.09825.pdf> Contraction and regularizing properties of heat flows in metric 
 measure spaces </a>, _arXiv:1904.09825_.
-*   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction </a>, _ICML 2019_. 
+*   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction, </a> _ICML 2019_. 
 *   GL, A. Rudi, M. Pontil, C. Ciliberto,  <a href="https://papers.nips.cc/paper/7827-differential-properties-of-sinkhorn-approximation-for-learning-with-wasserstein-distance.pdf"> Differential Properties of Sinkhorn Approximations for Learning with Wasserstein Loss </a>, _NeurIPS 2018_.
 
 
