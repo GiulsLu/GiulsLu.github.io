@@ -34,4 +34,4 @@ measure spaces </a>, _arXiv:1904.09825_.
 ### News (conferences/workshops I have attended)
 * NeurIPS 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
 * <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a> 2018, Pisa, Italy
-* MLSS 2018, Buenos Aires
+* <a href="http://mlss2018.net.ar/"> MLSS 2018 </a>, Buenos Aires
