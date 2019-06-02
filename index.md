@@ -25,6 +25,7 @@ My main research interest focuses on the interplay of optimal transport and mach
 You can find my full CV <a href="CV.pdf"> here </a>.
 
 ## Publications
+* GL, S. Salzo, M. Pontil, C.Ciliberto,  <a href="https://arxiv.org/pdf/1905.13194.pdf"> Sinkhorn Barycenter with Free Support via Frank-Wolfe Algorithm, _arXiv:1905.13194_
 * GL, G. Savare', <a href="https://arxiv.org/pdf/1904.09825.pdf"> Contraction and regularizing properties of heat flows in metric 
 measure spaces </a>, _arXiv:1904.09825_.
 *   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction, </a> _ICML 2019_. 
