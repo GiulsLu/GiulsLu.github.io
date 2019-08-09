@@ -33,7 +33,7 @@ measure spaces </a>, _arXiv:1904.09825_.
 
 
 ### News (conferences/workshops I have attended)
-* <a href="http://web.math.unifi.it/users/depascal/Palazzone2019/young.htmlPOTA"  </a>  workshop Jun. 2019, Cortona (Italy)  
+* <a href="http://web.math.unifi.it/users/depascal/Palazzone2019/young.html"> POTA </a>  workshop Jun. 2019, Cortona (Italy)  
 * ICML Jun. 2019, Long Beach <a href="posterICML.pdf"> (poster) </a>
 * NeurIPS Dec. 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
 * <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a> 2018, Pisa, Italy
