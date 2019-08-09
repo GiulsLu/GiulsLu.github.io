@@ -15,7 +15,7 @@ My main research interest focuses on the interplay of optimal transport and mach
 ## Education
 
 *   PhD student at UCL, Computer Science department
-     * Apr. 2019-present I am working at  <a href="http://crest.science/"> CREST </a>,  <a href="https://www.ensae.fr/en/"> ENSAE ParisTech </a>, under the supervision of <a href="http://marcocuturi.net/"> Marco Cuturi </a>
+     * Apr. 2019-July 2019 I am working at  <a href="http://crest.science/"> CREST </a>,  <a href="https://www.ensae.fr/en/"> ENSAE ParisTech </a>, under the supervision of <a href="http://marcocuturi.net/"> Marco Cuturi </a> and <a href="http://www.gpeyre.com/"> Gabriel Peyre' </a>
 *   MSc. Mathematics, University of Pavia, 2014-2016
       * MSc dissertation: _Contraction and regularizing effects for Markov semigroups in Hellinger-Kantorovich spaces_
       * Advisor: <a href="https://www-dimat.unipv.it/savare/"> Giuseppe Savare' </a>
@@ -33,6 +33,8 @@ measure spaces </a>, _arXiv:1904.09825_.
 
 
 ### News (conferences/workshops I have attended)
-* NeurIPS 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
+* POTA workshop Jun. 2019, Cortona (Italy)  
+* ICML Jun. 2019, Long Beach <a href="posterICML.pdf"> (poster) </a>
+* NeurIPS Dec. 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
 * <a href="http://www.crm.sns.it/event/436/"> Optimal Transportation and Applications </a> 2018, Pisa, Italy
 * <a href="http://mlss2018.net.ar/"> MLSS 2018 </a>, Buenos Aires
