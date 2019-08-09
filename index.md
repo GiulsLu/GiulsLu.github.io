@@ -15,7 +15,7 @@ My main research interest focuses on the interplay of optimal transport and mach
 ## Education
 
 *   PhD student at UCL, Computer Science department
-     * Apr. 2019-July 2019 I am working at  <a href="http://crest.science/"> CREST </a>,  <a href="https://www.ensae.fr/en/"> ENSAE ParisTech </a>, under the supervision of <a href="http://marcocuturi.net/"> Marco Cuturi </a> and <a href="http://www.gpeyre.com/"> Gabriel Peyre' </a>
+     * Apr. 2019-July 2019 I worked at  <a href="http://crest.science/"> CREST </a>,  <a href="https://www.ensae.fr/en/"> ENSAE ParisTech </a>, under the supervision of <a href="http://marcocuturi.net/"> Marco Cuturi </a> and <a href="http://www.gpeyre.com/"> Gabriel Peyre' </a>
 *   MSc. Mathematics, University of Pavia, 2014-2016
       * MSc dissertation: _Contraction and regularizing effects for Markov semigroups in Hellinger-Kantorovich spaces_
       * Advisor: <a href="https://www-dimat.unipv.it/savare/"> Giuseppe Savare' </a>
