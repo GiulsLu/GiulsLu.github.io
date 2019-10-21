@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a second-year PhD student in Machine Learning at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I work under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">Massimiliano Pontil</a>  and <a href="https://cciliber.github.io">Carlo Ciliberto</a>.
+I am a third-year PhD student in Machine Learning at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I work under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">Massimiliano Pontil</a>  and <a href="https://cciliber.github.io">Carlo Ciliberto</a>.
 
 
 
