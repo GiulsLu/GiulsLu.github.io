@@ -33,7 +33,7 @@ measure spaces </a>, _arXiv:1904.09825_, to appear in DCDS-Series S.
 
 
 ### News (conferences/workshops I have attended)
-* MAGA days 20-21 Nov 2019, Paris <a href="slides_talk_paris.pdf"> (slides)
+* MAGA days 20-21 Nov 2019, Paris <a href="slides_talk_paris.pdf"> (slides) </a>
 * <a href="http://web.math.unifi.it/users/depascal/Palazzone2019/young.html"> POTA </a>  workshop Jun. 2019, Cortona (Italy)  
 * ICML Jun. 2019, Long Beach <a href="posterICML.pdf"> (poster) </a>
 * NeurIPS Dec. 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
