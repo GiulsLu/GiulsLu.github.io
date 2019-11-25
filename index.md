@@ -27,12 +27,13 @@ You can find my full CV <a href="CV.pdf"> here </a>.
 ## Publications
 * GL, S. Salzo, M. Pontil, C.Ciliberto,  <a href="https://arxiv.org/pdf/1905.13194.pdf"> Sinkhorn Barycenter with Free Support via Frank-Wolfe Algorithm  </a>, NeurIPS 2019 (spotlight)
 * GL, G. Savare', <a href="https://arxiv.org/pdf/1904.09825.pdf"> Contraction and regularizing properties of heat flows in metric 
-measure spaces </a>, _arXiv:1904.09825_.
+measure spaces </a>, _arXiv:1904.09825_, to appear in DCDS-Series S.
 *   GL, D. Stamos, M. Pontil, C. Ciliberto,  <a href="https://arxiv.org/abs/1903.00667"> Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction, </a> _ICML 2019_. 
 *   GL, A. Rudi, M. Pontil, C. Ciliberto,  <a href="https://papers.nips.cc/paper/7827-differential-properties-of-sinkhorn-approximation-for-learning-with-wasserstein-distance.pdf"> Differential Properties of Sinkhorn Approximations for Learning with Wasserstein Loss </a>, _NeurIPS 2018_.
 
 
 ### News (conferences/workshops I have attended)
+* MAGA days 20-21 Nov 2019, Paris <a href="slides_talk_paris.pdf"> (slides)
 * <a href="http://web.math.unifi.it/users/depascal/Palazzone2019/young.html"> POTA </a>  workshop Jun. 2019, Cortona (Italy)  
 * ICML Jun. 2019, Long Beach <a href="posterICML.pdf"> (poster) </a>
 * NeurIPS Dec. 2018, Montreal <a href="posterNeurips.pdf"> (poster) </a>
