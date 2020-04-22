@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: [Giulia Luise]
 description: [PhD student in Machine Learning <br />
 UCL London]
+logo: me.jpg
 cv_url: CV.pdf
 scholar_url: https://scholar.google.fr/citations?user=2wduCTYAAAAJ&hl=en
