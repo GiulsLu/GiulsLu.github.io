@@ -23,12 +23,12 @@ You can find my full CV <a href="CV.pdf"> here </a>.
 ## Publications
     
     
-* GL, M. Pontil, C. Ciliberto, <a ref="arXiv:2007.14641"> Generalization Properties of Optimal Transport GANs with
+* GL, M. Pontil, C. Ciliberto, <a href="arXiv:2007.14641"> Generalization Properties of Optimal Transport GANs with
     Latent Distribution Learning </a>, submitted
     
-* S. Cohen, GL , A. Terenin, A. Brandon, M. Deisenroth, <a ref="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
+* S. Cohen, GL , A. Terenin, A. Brandon, M. Deisenroth, <a href="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
     
-* A. Salim, A. Korba, GL, <a ref="https://papers.nips.cc/paper/2020/file/91cff01af640a24e7f9f7a5ab407889f-Paper.pdf"> Wasserstein Proximal Gradient </a>, NeurIPS 2020
+* A. Salim, A. Korba, GL, <a href="https://papers.nips.cc/paper/2020/file/91cff01af640a24e7f9f7a5ab407889f-Paper.pdf"> Wasserstein Proximal Gradient </a>, NeurIPS 2020
     
 * GL, S. Salzo, M. Pontil, C.Ciliberto,  <a href="https://arxiv.org/pdf/1905.13194.pdf"> Sinkhorn Barycenter with Free Support via Frank-Wolfe Algorithm  </a>, NeurIPS 2019 (spotlight)
 * GL, G. Savare', <a href="https://arxiv.org/pdf/1904.09825.pdf"> Contraction and regularizing properties of heat flows in metric 
@@ -38,7 +38,7 @@ measure spaces </a>, DCDS-Series S, <a href ="https://www.aimsciences.org/articl
 
 
 ### News (conferences/workshops I have attended)
-    * <a ref="https://ellisgenoa.eu/events"> MalGA Seminars </a>, 16 March 2021
+* <a href="https://ellisgenoa.eu/events"> MalGA Seminars </a>, 16 March 2021
 * <a href="http://www.csml.ucl.ac.uk/events/399"> DeepMind CSML Seminar Series </a>, 28 Nov 2019,  London,  <a href="talk_ucl_imp_new.pdf"> (slides) </a>
 * MAGA days 20-21 Nov 2019, Paris <a href="slides_talk_paris.pdf"> (slides) </a>
 * <a href="http://web.math.unifi.it/users/depascal/Palazzone2019/young.html"> POTA </a>  workshop Jun. 2019, Cortona (Italy)  
