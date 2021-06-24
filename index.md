@@ -26,7 +26,7 @@ You can find my full CV <a href="CV.pdf"> here </a>.
 * GL, M. Pontil, C. Ciliberto, <a ref="arXiv:2007.14641"> Generalization Properties of Optimal Transport GANs with
     Latent Distribution Learning </a>, submitted
     
-*S. Cohen, GL , A. Terenin, A. Brandon, M. Deisenroth, <a ref="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
+* S. Cohen, GL , A. Terenin, A. Brandon, M. Deisenroth, <a ref="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
     
 * A. Salim, A. Korba, GL, <a ref="https://papers.nips.cc/paper/2020/file/91cff01af640a24e7f9f7a5ab407889f-Paper.pdf"> Wasserstein Proximal Gradient </a>, NeurIPS 2020
     
