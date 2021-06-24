@@ -18,7 +18,7 @@ My main research interest focuses on the interplay of Machine Learning and Optim
 *   Exchange Program (Mar. 2015- Aug. 2015) at  <a href="https://www.hu-berlin.de/en/"> Humboldt University</a>, Berlin 
 *   BSc. Mathematics, <a href="http://matematica.unipv.it/en/"> University of Pavia </a>, 2011-2014
 
-You can find my full CV <a href="CV.pdf"> here </a>.
+You can find my full CV <a href="GiuliaLuise_CV_2021.pdf"> here </a>.
 
 ## Publications
     
