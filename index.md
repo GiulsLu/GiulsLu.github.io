@@ -1,6 +1,6 @@
 ## About Me
 
-I recently finished my PhD in Machine Learning at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I worked under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">Massimiliano Pontil</a>  and <a href="https://cciliber.github.io">Carlo Ciliberto</a>. In November 2020, I started a PostDoc at the Department of Computing at <a href="https://www.imperial.ac.uk/computing" > Imperial College <a/>.
+I recently finished my PhD in Machine Learning at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I worked under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">Massimiliano Pontil</a>  and <a href="https://cciliber.github.io">Carlo Ciliberto</a>. In November 2020, I started a PostDoc at the Department of Computing at <a href="https://www.imperial.ac.uk/computing" > Imperial College <a/>. This summer I took part in the research sprint with <a href="https://frontierdevelopmentlab.org/"> Frontier Development Lab <a/>, an applied AI research accelerator that works in partnership with NASA.
 
 
 
@@ -26,11 +26,13 @@ You can find my full CV <a href="GiuliaLuise_CV_2021.pdf"> here </a>.
 * GL, M. Pontil, C. Ciliberto, <a href="arXiv:2007.14641"> Generalization Properties of Optimal Transport GANs with
     Latent Distribution Learning </a>, submitted
     
-* S. Cohen, GL , A. Terenin, A. Brandon, M. Deisenroth, <a href="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
+* S. Cohen, GL , A. Terenin, B. Amos, M. Deisenroth, <a href="http://proceedings.mlr.press/v130/cohen21a.html"> Aligning Time Series on Incomparable Spaces </a>, AISTATS 2021
     
 * A. Salim, A. Korba, GL, <a href="https://papers.nips.cc/paper/2020/file/91cff01af640a24e7f9f7a5ab407889f-Paper.pdf"> Wasserstein Proximal Gradient </a>, NeurIPS 2020
     
 * L. Oneto, M. Donini, GL,  C. Ciliberto, A. Maurer and M. Pontil,   <a href= "https://proceedings.neurips.cc/paper/2020/file/af9c0e0c1dee63e5acad8b7ed1a5be96-Paper.pdf"> Exploiting MMD and Sinkhorn Divergences for Learning Fair and Transferable Representations </a>, NeurIPS 2020
+    
+* A. Korba, A. Salim, M. Arbel, GL, A. Gretton  <a href= "https://proceedings.neurips.cc/paper/2020/file/3202111cf90e7c816a472aaceb72b0df-Paper.pdf"> A Non-Asymptotic Analysis for Stein Variational Gradient Descent </a>, NeurIPS 2020
     
 * GL, S. Salzo, M. Pontil, C.Ciliberto,  <a href="https://arxiv.org/pdf/1905.13194.pdf"> Sinkhorn Barycenter with Free Support via Frank-Wolfe Algorithm  </a>, NeurIPS 2019 (spotlight)
     
