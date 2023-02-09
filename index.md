@@ -1,15 +1,12 @@
 ## About Me
 
-I recently finished my PhD in Machine Learning at <a href="https://www.ucl.ac.uk/"> UCL </a>, London. I worked under the supervision of <a href="http://www0.cs.ucl.ac.uk/staff/M.Pontil/">Massimiliano Pontil</a>  and <a href="https://cciliber.github.io">Carlo Ciliberto</a>. In November 2020, I started a PostDoc at the Department of Computing at <a href="https://www.imperial.ac.uk/computing" > Imperial College <a/>. This summer I took part in the research sprint with <a href="https://frontierdevelopmentlab.org/"> Frontier Development Lab <a/>, an applied AI research accelerator that works in partnership with NASA.
+I am a senior researcher at Microsoft Research, in the AI4Science team. My website is a bit out of date, I will fix it soon :) 
 
+Before joining Microsoft, I worked as a postdoc at UCL where I also did my PhD in Machine Learning. In summer 2021 I took part in the research sprint with <a href="https://frontierdevelopmentlab.org/"> Frontier Development Lab <a/>, an applied AI research accelerator that works in partnership with NASA. 
 
-
-## Research Interests
-
-My main research interest focuses on the interplay of Machine Learning and Optimal Transport, in particular on using optimal transport distances for learning probability measures in supervised or unsupervised settings. I also work a bit on structured prediction and surrogate frameworks. Recently, I started working on more applied topics -targeting Reinforcement Learning for healthcare.
 
 ## Education
-*   Research Associate at Imperial College, Department of Computing
+*   Research Associate at UCL and Imperial College
 *   PhD student at UCL, Computer Science department
      * Apr. 2019-July 2019 I worked at  <a href="http://crest.science/"> CREST </a>,  <a href="https://www.ensae.fr/en/"> ENSAE ParisTech </a>, under the supervision of <a href="http://marcocuturi.net/"> Marco Cuturi </a> and <a href="http://www.gpeyre.com/"> Gabriel Peyre' </a>
 *   MSc. Mathematics, University of Pavia, 2014-2016
